@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my blog: https://coffeeandfinancebr.blogspot.com/
 - 🌱 I’m currently learning Python and Javascript
-- 🤔 I’m looking for help with Back-end technologies
+- 🤔 I’m looking for improvement in Back-end technologies
 - ♟️ Challenge me on https://www.chess.com/member/budweiserfischer
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
