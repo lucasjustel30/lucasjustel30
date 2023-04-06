@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my blog: https://coffeeandfinancebr.blogspot.com/
 - 🌱 I’m currently learning Python and Javascript
 - 🤔 I’m looking for help with Back-end technologies
-- 📫 How to reach me: lucasjustel30@gmail.com
+- ♟️ Challenge me on https://www.chess.com/member/budweiserfischer
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
